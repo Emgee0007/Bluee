@@ -1,0 +1,23 @@
+* {
+    background-color: blueviolet
+}
+
+h1 {
+    color: red
+}
+h2 {
+    color:aquamarine
+}
+h3 {
+    color:brown
+}
+h4 {
+    color: blue;
+}
+h5 {
+    color: yellowgreen
+}
+.img {
+    border: 5px solid white;
+    width: 10%;
+}
